@@ -17,7 +17,7 @@ def disemvowel(string_: str):
 
     for i in string_:
 
-        b = False
+        b = False 
         for j in letters:
                
             if i == j:
